@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box{
+    background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p2/530301-rose-abstrait-geometrique-froisse-triangulaire-low-poly-style-illustrationle-fond-graphique-vectoriel.jp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 200px;
+  }
