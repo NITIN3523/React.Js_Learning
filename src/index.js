@@ -2,7 +2,7 @@ import React from 'react';
 // import ReactDOM from 'react-dom';
 import './index.css';
 import { BrowserRouter } from 'react-router-dom';
-import Ard from './component/Weather/APIdata'
+import Ard from './component/TODOList/NitToDo'
 
 
 // ReactDOM.render(
